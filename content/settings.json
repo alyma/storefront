@@ -1,12 +1,12 @@
 {
-  "primary_color": "#e83e8c",
+  "primary_color": "#4751a4",
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
   "name": "Minha Loja",
   "short_name": "MinhaLoja",
   "lang": "pt_br",
   "favicon": "/img/uploads/favicon.png",
-  "secondary_color": "#333333",
+  "secondary_color": "#171f63",
   "icon": "/img/uploads/icon.png",
   "description": "Minha loja demo nota 10",
   "large_icon": "/img/uploads/large-icon.png"
